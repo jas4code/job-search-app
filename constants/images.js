@@ -1,4 +1,4 @@
-import profile from '../assets/images/ai-user-img.jpg';
+import profile from '../assets/images/ai-user-img.jpeg';
 
 export default {
 	profile,
